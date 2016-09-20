@@ -1,8 +1,8 @@
-Name:
+Name:  John Emery
 
-Compilation and Run Successful:
+Compilation and Run Successful:  Yes, compiled and ran in Android Emulator
 
-Unit Test Run Successfully:
+Unit Test Run Successfully: Yes, Main Activity Test ran with exit code 0 no problems
 
 # Project 1 - CSC 413 Spring 2016
 ###DUE Friday, September 23 by 5:00 PM
